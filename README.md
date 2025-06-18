@@ -17,3 +17,18 @@ https://www.ncbi.nlm.nih.gov/datasets/taxonomy/29058/
 
 [Ссылка на колаб](https://colab.research.google.com/drive/1UD6JPg7d3oApYXfZq3uUGHK9XmDJdJF0?usp=sharing)
 
+[Полученные файлы](data/)
+
+## Таблица семейство-ген
+
+<img width="516" alt="image" src="https://github.com/user-attachments/assets/e59a7d1a-f64e-486d-8fce-2161dfe7b560" />
+
+## Найденные структуры
+
+<img width="887" alt="image" src="https://github.com/user-attachments/assets/8c6310a4-5eb8-41aa-a609-399990ca91ca" />
+
+<img width="1248" alt="image" src="https://github.com/user-attachments/assets/60aabf2a-b291-4653-8c5c-c85a503c9284" />
+
+## Сравнение с фоном
+
+В генах локализовано около 65% всех G-квадруплексов и 74% предсказанных Z-DNA мотивов, несмотря на то что гены занимают существенно меньшую часть генома. В экзонах содержится 13% G-квадруплексов и 33% Z-DNA мотивов, хотя экзоны составляют незначительную долю генома. В интергенных областях обнаружено лишь 35% G-квадруплексов и 26% Z-DNA мотивов при гораздо большей доле этих участков в геноме. Таким образом, структурные мотивы значительно обогащены в генах и экзонах относительно фона.
