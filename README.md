@@ -25,9 +25,11 @@ https://www.ncbi.nlm.nih.gov/datasets/taxonomy/29058/
 
 ## Найденные структуры
 
-<img width="887" alt="image" src="https://github.com/user-attachments/assets/8c6310a4-5eb8-41aa-a609-399990ca91ca" />
+<img width="885" alt="image" src="https://github.com/user-attachments/assets/f879e3e3-bd7a-46ba-9875-8cc3fe67eea1" />
 
-<img width="1248" alt="image" src="https://github.com/user-attachments/assets/60aabf2a-b291-4653-8c5c-c85a503c9284" />
+
+<img width="1240" alt="image" src="https://github.com/user-attachments/assets/19627667-d477-400f-9cba-7d2ff6e95541" />
+
 
 ## Сравнение с фоном
 
